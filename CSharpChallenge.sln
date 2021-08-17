@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpChallenge", "CSharpChallenge\CSharpChallenge.csproj", "{7FE75199-B5D3-4638-845D-2823C28D0438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE75199-B5D3-4638-845D-2823C28D0438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE75199-B5D3-4638-845D-2823C28D0438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE75199-B5D3-4638-845D-2823C28D0438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE75199-B5D3-4638-845D-2823C28D0438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B01F43C6-AEE9-4339-BEA2-D20F5A6F84F3}
+	EndGlobalSection
+EndGlobal
